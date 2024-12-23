@@ -1,0 +1,9 @@
+frontend:
+  label: frontend
+  permalink: /frontend
+  description: Everything related to frontend work
+
+react:
+  label: react
+  permalink: /react
+  description: ReactJS related posts
