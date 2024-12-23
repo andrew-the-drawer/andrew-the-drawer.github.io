@@ -12,3 +12,5 @@ Reference: [Module federation Webpack 5 deep dive](https://scriptedalchemy.mediu
 Library used in the example: [Module federation plugin](https://module-federation.io/guide/start/index.html)
 
 <!-- truncate -->
+
+Demo repository: [Microfrontend example](https://github.com/andrew-the-drawer/microfrontend-example)
